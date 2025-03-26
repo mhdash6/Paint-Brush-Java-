@@ -1,6 +1,7 @@
 # Java Paint Brush Application
 
-A feature-rich drawing application built with Java Swing for creating geometric shapes, freehand sketches, and editing images. This project offers an intuitive interface and essential tools for both quick designs and more detailed artwork.
+A simple drawing application built with Java Swing. It lets you create basic geometric shapes, freehand sketches, and do some simple image editing. Perfect for small design tasks.
+
 
 
 ![Application Screenshot](Screenshot.png)
