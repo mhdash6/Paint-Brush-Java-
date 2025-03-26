@@ -2,6 +2,10 @@
 
 A feature-rich drawing application built with Java Swing for creating geometric shapes, freehand sketches, and editing images. This project offers an intuitive interface and essential tools for both quick designs and more detailed artwork.
 
+
+![Application Screenshot](Screenshot.png)
+
+
 ## Features
 
 - **Drawing Tools**
